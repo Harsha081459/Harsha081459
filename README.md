@@ -1,4 +1,4 @@
-# Harsha Vardhan 👋
+# Harsha Vardhan D 👋
 **Data Science & AI Undergrad @ IIIT-Bangalore** | [Portfolio](https://Harsha081459.github.io) | [Email](mailto:harsha.vardhan@iiitb.ac.in)
 
 Passionate about building scalable AI systems, architecting robust machine learning pipelines, and tackling complex data challenges.
