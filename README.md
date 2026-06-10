@@ -1,7 +1,7 @@
 # Harsha Vardhan 👋
 **Data Science & AI Undergrad @ IIIT-Bangalore** | [Portfolio](https://Harsha081459.github.io) | [Email](mailto:harsha.vardhan@iiitb.ac.in)
 
-Passionate about Multimodal Reinforcement Learning, NLP, and building robust evaluation frameworks.
+Passionate about building scalable AI systems, architecting robust machine learning pipelines, and tackling complex data challenges.
 
 ### 🚀 Top Projects
 | Project | Description | Focus |
